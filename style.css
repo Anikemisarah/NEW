@@ -1,0 +1,14 @@
+.container {
+    
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+.button a {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
